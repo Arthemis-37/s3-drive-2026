@@ -18,4 +18,5 @@ Application Web permettant de gérer un espace de stockage Amazon S3 à la mani�
 3. Lancer le projet : 
    ```bash
    npm run dev 
+   ```
    (le projet ce lancera sur le http://localhost:5173/ )
